@@ -1,0 +1,9 @@
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\bin\Debug\MyUtilites.exe.config
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\bin\Debug\MyUtilites.exe
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\bin\Debug\MyUtilites.pdb
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.csprojResolveAssemblyReference.cache
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.MainForm.resources
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.Properties.Resources.resources
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.csproj.GenerateResource.Cache
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.exe
+F:\Projects\Mini-projects with C sharp by GeekBrains\MyUtilites\MyUtilites\obj\Debug\MyUtilites.pdb
